@@ -674,7 +674,6 @@ export default class MImagePicker extends React.Component {
 	);
 
 	render() {
-		return null;
 		return (
 			<View style={styles.container}>
 				{this.state.showCamera ? this.camera() : this.renderImages()}
