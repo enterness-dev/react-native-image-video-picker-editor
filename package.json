@@ -10,10 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/blazerroad/react-native-image-video-picker-editor.git"
   },
-  "dependencies": {
-   
-    
-  },
+  "dependencies": {},
   "keywords": [
     "react native",
     "image picker",
@@ -31,7 +28,6 @@
     "photo edit",
     "camera",
     "video record"
-
   ],
   "author": "BlazerRoad",
   "license": "ISC",
